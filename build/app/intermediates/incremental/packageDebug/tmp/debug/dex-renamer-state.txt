@@ -1,0 +1,4 @@
+#Fri Dec 10 14:28:25 IST 2021
+base.0=/home/lenovo/projects/gesture_detector_demo/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
+renamed.0=classes.dex
+path.0=classes.dex

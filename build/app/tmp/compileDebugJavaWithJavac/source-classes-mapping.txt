@@ -1,0 +1,4 @@
+io/flutter/plugins/GeneratedPluginRegistrant.java
+ io.flutter.plugins.GeneratedPluginRegistrant
+com/example/gesture_detector_demo/BuildConfig.java
+ com.example.gesture_detector_demo.BuildConfig
